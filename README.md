@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This program is a very simple tool used to predict when satellites are
 visible to a certain location.  It is based on PLAN13 by James Miller
 (G3RUH) and is provided as is.  
@@ -861,3 +862,9 @@ Snail Mail:          Christie Harper
                      Huntsville, Al 35804
 
 73's and look forward to talking to you on the satellite.
+=======
+Satellite-Tracking
+==================
+
+An old satellite tracking program I have been updating.
+>>>>>>> 1067044d1834fe4730b6b4b8c1c2248d0b81d393
